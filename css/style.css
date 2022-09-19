@@ -49,6 +49,7 @@ ul li.checked::before {
   transform: rotate(45deg);
   height: 15px;
   width: 7px;
+ 
 }
 ul li i{
   padding-right: 2rem;
@@ -69,7 +70,7 @@ ul li i{
 
 .header {
   background-color: #f78501;
-  padding: 30px 40px;
+  padding: 70px 40px;
   color: white;
   text-align: center;
 }
